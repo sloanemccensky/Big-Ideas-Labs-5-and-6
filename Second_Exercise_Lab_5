@@ -1,0 +1,7 @@
+input1 = input("Enter a word")
+input2 = input("Enter another word")
+
+if len(input1) > len(input2):
+  print(input1 + input2)
+else
+  print(input2 + input1)
