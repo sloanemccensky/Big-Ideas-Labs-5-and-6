@@ -4,3 +4,4 @@
 ## Our group's members are:
 * Sloane McCensky
 * Olivia Jefferson
+* Aaron Escobar
