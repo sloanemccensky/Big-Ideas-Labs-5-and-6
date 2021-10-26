@@ -15,6 +15,16 @@ Python 3 in JupyterHub
 # Bugs
 
 No bugs or fixes
+
+# Installation and Use
+
+This project is licensed under the MIT license. Feel free to edit and distribute this template as you like.
+
+See LICENSE.md for more information.
+
+# Code of Conduct
+
+
 ## Our group's members are:
 * Sloane McCensky
 * Olivia Jefferson
